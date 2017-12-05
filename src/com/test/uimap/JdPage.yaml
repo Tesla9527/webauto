@@ -1,0 +1,9 @@
+SearchBox:
+  type: XPath
+  value: "//input[@accesskey='s']"
+SearchButton:
+  type: XPath
+  value: "//button[@class='button']"
+SearchInResult:
+  type: XPath
+  value: "//input[@value='在结果中搜索']"
